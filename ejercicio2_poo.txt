@@ -1,0 +1,3 @@
+punto 2
+R/Si ese puede pero se debe tener en cuenta que hay que implementar los métodos principales,
+el override con parámetro como string[ ] arg.

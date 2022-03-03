@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejercicio1_poo/ejercicio1_poo.iml" filepath="$PROJECT_DIR$/ejercicio1_poo/ejercicio1_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio3_poo/ejercicio3_poo.iml" filepath="$PROJECT_DIR$/ejercicio3_poo/ejercicio3_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio4_poo/ejercicio4_poo.iml" filepath="$PROJECT_DIR$/ejercicio4_poo/ejercicio4_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio5_poo/ejercicio5_poo.iml" filepath="$PROJECT_DIR$/ejercicio5_poo/ejercicio5_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio6_poo/ejercicio6_poo.iml" filepath="$PROJECT_DIR$/ejercicio6_poo/ejercicio6_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/taller4.iml" filepath="$PROJECT_DIR$/.idea/taller4.iml" />
+    </modules>
+  </component>
+</project>
